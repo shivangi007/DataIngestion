@@ -1,0 +1,5 @@
+/Users/skulshrestha/Documents/personal projects/DataIngestion.TestAssignment-main/obj/Debug/netcoreapp3.1/DataIngestion.TestAssignment.csproj.AssemblyReference.cache
+/Users/skulshrestha/Documents/personal projects/DataIngestion.TestAssignment-main/obj/Debug/netcoreapp3.1/DataIngestion.TestAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skulshrestha/Documents/personal projects/DataIngestion.TestAssignment-main/obj/Debug/netcoreapp3.1/DataIngestion.TestAssignment.AssemblyInfoInputs.cache
+/Users/skulshrestha/Documents/personal projects/DataIngestion.TestAssignment-main/obj/Debug/netcoreapp3.1/DataIngestion.TestAssignment.AssemblyInfo.cs
+/Users/skulshrestha/Documents/personal projects/DataIngestion.TestAssignment-main/obj/Debug/netcoreapp3.1/DataIngestion.TestAssignment.csproj.CoreCompileInputs.cache
